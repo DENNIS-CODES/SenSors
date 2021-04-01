@@ -3,7 +3,7 @@ can be used to monitor the three-dimensional device movement or change in the en
 Android provides sensor api to work with different types of sensors
 
 
-## This App This App focuses on Sensors example that 
+## This App focuses on Sensors example that 
 - prints x, y and z axis values. Here, we are going to see that.
 - changes the background color when device is shuffled. Click for changing background color of activity sensor example
 
